@@ -1,0 +1,40 @@
+#center
+{
+	text-align:center;
+	color: #ffffff;     
+}
+#c_group
+{  
+	display: inlineblock;
+	margin-left: auto;
+	margin-right: auto;
+    width:50%;
+}
+.image
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width:100%;
+}
+#font
+{
+	font-size: 35px;
+	font-family: "OneDirection";
+}
+#normal_font
+{
+	color: #ffffff;
+	font-size: 18px;
+}
+ 
+.card-img-top
+{
+	width: 60%;
+}
+
+.card 
+{	
+	width: 50%;
+	padding:3%;
+}
