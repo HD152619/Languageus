@@ -54,27 +54,31 @@
         <a class="nav-link"  href = "${contextPath}/jsp/rate.jsp">RATE</a>
       </li>
 </ul>
+</div>
 
-<div class = "ctn" id = "center"><table width="100%" cellpadding="0" cellspacing="0" border="0" >
-  <tr height="5"><td width="5"></td></tr>
- <tr style="text-align:center;">
-   <td width="5"><img src="img/table_left.gif" width="5" height="30" /></td>
-   <td width="73">Number</td>
-   <td width="73">Writer</td>
-   <td width="200">Title</td>
-   <td width="7"><img src="#" width="5" height="30" /></td>
-  </tr>
-<tr height="25" align="center">
-</tr>
-  <tr height="1" bgcolor="#D2D2D2"><td colspan="6"></td></tr>
-
- <tr height="1" bgcolor="#82B5DF"><td colspan="6" width="752"></td></tr>
- </table>
+<!-- Message Board -->
+<div class = "ctn" id = "center">
+	<table width="100%" cellpadding="0" cellspacing="0" border="0" >
+  	<tr height="5"><td width="5"></td></tr>
+  
+	 <tr style="text-align:center;">
+	   <td width="5"><img src="img/table_left.gif" width="5" height="30" /></td>
+	   <td width="73">Number</td>
+	   <td width="73">Writer</td>
+	   <td width="200">Title</td>
+	   <td width="7"><img src="#" width="5" height="30" /></td>
+	  </tr>
+	<tr height="25" align="center">
+	</tr>
+	  <tr height="1" bgcolor="#D2D2D2"><td colspan="6"></td></tr>
+	
+	 <tr height="1" bgcolor="#82B5DF"><td colspan="6" width="752"></td></tr>
+	 </table>
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0" class = "ctn">
   <tr><td colspan="4" height="5"></td></tr>
   <tr align="center">
-   <td><input type=button value="글쓰기"></td>
+   <td><input type=button value="Write"></td>
   </tr>
 </table>
 </div>

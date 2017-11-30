@@ -7,7 +7,6 @@
 <html>
 <head>
   <title>LANGUAGEUS_HOME</title>
-  
     <!-- Required meta tags -->
     <meta charset="utf-8">
     
@@ -112,6 +111,7 @@
     </div>
   </div>
 
+<!-- Card Group -->
   <div class="card">
     <img class="card-img-top" src="${contextPath}/img/m_5.png" alt="Card image cap">
     <div class="card-body">
