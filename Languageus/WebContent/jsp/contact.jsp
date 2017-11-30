@@ -50,7 +50,6 @@
        <li class="nav-item active" >
         <a class="nav-link"  href = "${contextPath}/jsp/contact.jsp">CONTACT</a>
       </li>
-      s
         <a class="nav-link"  href = "${contextPath}/jsp/rate.jsp">RATE</a>
       </li>
 </ul>
